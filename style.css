@@ -27,6 +27,7 @@ p{
 .navlogo {
   width: 25%;
   width: 120px;
+  margin-left: 10px;
 }
 img {
   width: 100%;
@@ -78,6 +79,7 @@ li {
   border: none;
   color: #7342d6;
   display: none;
+  margin-right: 10px;
 }
 
 .menu__backdrop{
