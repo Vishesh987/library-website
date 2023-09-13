@@ -445,6 +445,10 @@ a:hover{
   .highlight:not(:last-child){
     margin-bottom: 24px;
   }
+
+  .navlogo{
+    margin-top:35px;
+  }
 }
 
 /* Small Phones */
@@ -466,6 +470,9 @@ a:hover{
 
   .book{
      width: 50%;
+  }
+  .navlogo{
+    margin-top:35px;
   }
 }
 
